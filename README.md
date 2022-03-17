@@ -13,6 +13,6 @@ now it should work!
 * When you type, it replaces it to correct character
 * Anti afk
 
-### working on modes
+### works on modes
 * Typing test (all languages)
 * Advanced typing test (all languages)
