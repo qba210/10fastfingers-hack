@@ -1,4 +1,5 @@
 console.log("%c10FastFingers Hack", "font-size: 35px;color: yellow;font-family:verdana");
+console.log("%cHack loaded successfuly!", "font-weight: bold;font-size: 27px;color: #0ea7ed;font-family:verdana");
 
 replaceInput();
 

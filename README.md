@@ -10,5 +10,9 @@ fetch("https://raw.githubusercontent.com/qba210/10fastfingers-hack/master/index.
 now it should work!
 
 ### features
+* When you type, it replaces it to correct character
+* Anti afk
+
+### working on modes
 * Typing test (all languages)
 * Advanced typing test (all languages)
