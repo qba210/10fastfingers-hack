@@ -40,7 +40,7 @@ function replaceInput(){
         selected = event.target.selectionEnd - event.target.selectionStart;
     }
 
-	$inputfield.keydown(selectionCheck); // tracks how many characters are selected
+	$inputfield.keydown(selectionCheck);
 
 	$inputfield.keyup(function (event) {
 		if (loading == 0) {

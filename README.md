@@ -5,7 +5,7 @@
 * Click on console
 * Paste this:
 ```js
-fetch("").then((res) => res.text().then((hack) => eval(hack)))
+fetch("https://raw.githubusercontent.com/qba210/10fastfingers-hack/master/index.js").then((res) => res.text().then((hack) => eval(hack)))
 ```
 now it should work!
 
